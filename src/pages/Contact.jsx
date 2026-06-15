@@ -30,7 +30,7 @@ const Contact = () => {
         headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
         body: JSON.stringify({
           access_key: WEB3FORMS_ACCESS_KEY,
-          subject: 'New message from Lumière Beauty website',
+          subject: 'New message from PrimePick Beauty website',
           from_name: formData.name,
           email: formData.email,
           message: formData.message,
