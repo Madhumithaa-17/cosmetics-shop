@@ -1,4 +1,4 @@
-# Lumière Beauty — Cosmetics E-commerce (React + Vite + React Bootstrap)
+# PrimePick Beauty — Cosmetics E-commerce (React + Vite + React Bootstrap)
 
 A fully responsive luxury cosmetics storefront built with React, Vite, and React Bootstrap.
 Pink / White / Gold theme, dark mode, animations, and product data from DummyJSON.
